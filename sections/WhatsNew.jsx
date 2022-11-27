@@ -48,7 +48,6 @@ const WhatsNew = () => (
               className='w-[90%] h-[90%] object-contain'
             />
         </motion.div>
-
     </motion.div>
   </section>
 );

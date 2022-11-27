@@ -10,7 +10,6 @@ const StartSteps = ({ number, text }) => (
     <p
       className="flex-1 ml-[30px] font-normal text-[18px] text-[#B0b0b0] leading-[32px]"
       >{text}
-
     </p>
   </div>
 );
